@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "POS MACKENZIE"
+    organization = "YllaLab"
 
     workspaces {
       name = "gh-posmackenzie"
